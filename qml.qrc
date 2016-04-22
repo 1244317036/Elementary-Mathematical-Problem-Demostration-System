@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>images/1.jpg</file>
+        <file>linear.qml</file>
+        <file>images/2.ico</file>
+        <file>images/lianxi1.png</file>
+        <file>images/lianxi2.png</file>
+        <file>images/liti1.png</file>
+        <file>images/liti2.png</file>
+        <file>images/yinru1.png</file>
+        <file>images/yinru2.png</file>
+    </qresource>
+    <qresource prefix="/1"/>
+    <qresource prefix="/1.jpg"/>
+</RCC>
